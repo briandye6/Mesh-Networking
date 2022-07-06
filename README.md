@@ -1,4 +1,4 @@
-# Mesh Networking Design Project
+# ENIGMA Mesh Networking Design Project
 This repository was designed to be used with the STM32F091RCT ARM Cortex microcontroller.
 
 ### Basic API:
