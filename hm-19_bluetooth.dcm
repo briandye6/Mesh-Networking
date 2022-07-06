@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP S9V11F3S5C3
+D Step Up/Step Down Regulator
+F https://www.pololu.com/file/0J1408/step-up-step-down-voltage-regulator-s9v11x-dimensions.pdf
+$ENDCMP
+#
+#End Doc Library

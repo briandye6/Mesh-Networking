@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name hm-19_bluetooth)(type Legacy)(uri ${KIPRJMOD}/hm-19_bluetooth.lib)(options "")(descr ""))
+  (lib (name ENIGMA-rescue)(type Legacy)(uri ${KIPRJMOD}/ENIGMA-rescue.lib)(options "")(descr ""))
+)
