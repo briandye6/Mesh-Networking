@@ -11,7 +11,7 @@ This repository was designed to be used with the STM32F091RCT ARM Cortex microco
 | src/lcd.c|  Helper functions to communicate with MP2202 TFT Display|
 | src/RFM69.c|  Helper functions to communicate with RFM69HCW Radio|
 | src/STPswitch.c|  Helper functions to create and facilitate a MESH Spanning Tree Protocol|
-| src/list.c| Doubly Linked Listed Data Structure for forwarding table|
+| src/list.c| Doubly Linked List Data Structure for forwarding table|
 
 
 ### User Interace: Progressive Web Application
