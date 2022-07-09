@@ -4,9 +4,9 @@
   * @author  Brian Dye
   * @version V1.0
   * @date    01-January-2022
-  * @brief   Used to setup STM32F091 hardware interfaces:
-  *                     - STM32   <-> RFM69 (SPI)
-  *                     - STIM32  <->  ESP-32 (SPI)
+  * @brief   STP Switch Initialization, Serial Communication enable,
+             Setup and Enable Interrupts, Interrupt Service Routines,
+             GPS and Battery Moniter Helper Functions
   ******************************************************************************
 */
 
