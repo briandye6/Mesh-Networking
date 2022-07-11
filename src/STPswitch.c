@@ -250,36 +250,3 @@ void handleRemoveLink(STPswitch * switchNode, uint32_t freq, char * endpoint) {
 void handlePeriodicOps(STPswitch * switchNode) {
   sendControlPacket(switchNode);
 }
-
-/*
-
-void runSwitch(STPswitch * switchNode) {
-
-  // Search for Connection to MANET (SCAN)
-  while (!(switchNode->connected)) {
-      // Send a control packet requesting to join the network
-      // TO DO
-
-      // Receive a control packet with transmission information
-      // TO DO: Establish a mutal link with other node(s)
-
-
-  }
-
-  // Equally split STM32 clock cycles between sending and receiveing data?
-  while (1) {
-      // 1. Send information from sendBUFFER to network if there is information to send
-
-
-      // 2. Process information FROM receiveBUFFER if we receive data from RFM69
-
-  }
-}
-*/
-
-
-
-
-
-
-
